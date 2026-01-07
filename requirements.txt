@@ -1,0 +1,11 @@
+datasets
+numpy
+pandas
+peft
+pillow
+torch
+tqdm
+transformers
+trl
+unsloth
+wandb
